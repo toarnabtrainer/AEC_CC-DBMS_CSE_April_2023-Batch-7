@@ -17,6 +17,8 @@ https://tinyurl.com/yetjejhf
 
 **Notepad Link:** https://notepad.pw/2BPTZJKld9UOuICy2h52
 
+**JamBoard Link for Program Logic Tracing:** https://jamboard.google.com/d/1q84LWDEJGQRoTaYtCV37bbro4Lk8g-FGfIL0uvNJEz0/viewer?f=3
+
 **Programming Assignment - 1 (10 Minutes)**<br>
 Print the following pattern for user given ODD value for n.<br>
 For n = 11<br>
