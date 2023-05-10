@@ -15,7 +15,7 @@ https://tinyurl.com/yetjejhf
 
 **Advanced Learning Resource:** https://certifications.codechef.com/data-structures-and-algorithms/prepare/advanced-level
 
-**Notepad Link:** https://notepad.pw/2BPTZJKld9UOuICy2h52
+**Notepad Link:** https://notepad.pw/jSFIAONREGUo926UofEt
 
 **JamBoard Link for Program Logic Tracing:** https://jamboard.google.com/d/1q84LWDEJGQRoTaYtCV37bbro4Lk8g-FGfIL0uvNJEz0/viewer?f=3
 
